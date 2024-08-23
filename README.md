@@ -1,4 +1,4 @@
-# ForeHub
+# ForeHub (Next.js)
 This project is developed using Node and Next js and tailwind css
 
 The idea behind is to list 
